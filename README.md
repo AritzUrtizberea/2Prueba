@@ -20,6 +20,8 @@ git clone https://github.com/usuario/proyecto.git
 
 # Entrar al directorio del proyecto
 cd proyecto
-#amigo
+
+#andyPandy
 # Instalar dependencias
+
 npm install
