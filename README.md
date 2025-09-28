@@ -8,7 +8,7 @@ y mejorar poco a poco mis habilidades como desarrollador.
 
 ## 🚀 Objetivos del proyecto
 
-- Practicar **programación en JavaScript/Java/Python** (elige el lenguaje que uses).
+- Practicar **programación en JavaScript/Python**).
 - Mejorar en el uso de **Git y GitHub**.
 - Crear una base para un futuro **juego completo de Lingo**.
 
