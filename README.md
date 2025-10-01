@@ -1,27 +1,22 @@
-# Nombre del Proyecto
+# 🎯 Lingo
 
-Una breve descripción de lo que hace el proyecto y su propósito.
+Un pequeño proyecto en desarrollo para crear un **juego de palabras tipo Lingo**.  
+La idea es ir practicando lógica de programación, control de versiones con Git y GitHub,  
+y mejorar poco a poco mis habilidades como desarrollador.
 
-## Tabla de Contenidos
+---
 
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Tecnologías](#tecnologías)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+## 🚀 Objetivos del proyecto
 
-## Instalación
+- Practicar **programación en JavaScript/Python**).
+- Mejorar en el uso de **Git y GitHub**.
+- Crear una base para un futuro **juego completo de Lingo**.
 
-Instrucciones paso a paso para instalar el proyecto.
+---
 
-```bash
-# Clonar el repositorio
-git clone https://github.com/usuario/proyecto.git
+## 📂 Estructura inicial
 
-# Entrar al directorio del proyecto
-cd proyecto
-
-#andyPandy
-# Instalar dependencias
-
-npm install
+Lingo/
+├─ src/ # Código fuente
+├─ docs/ # Documentación
+└─ README.md # Este archivo
